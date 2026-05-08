@@ -1,0 +1,7 @@
+tensorflow>=2.13.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+gradio>=4.0.0          # tuỳ chọn — dùng cho app demo
+kaggle>=1.5.16         # tuỳ chọn — tải dataset từ Kaggle CLI
