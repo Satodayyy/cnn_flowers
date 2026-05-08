@@ -249,12 +249,4 @@ cnn_flowers/
 
 ---
 
-## Mở Rộng Đề Tài
 
-| Hướng mở rộng | Mô tả |
-|---|---|
-| **Nhận dạng chữ viết tay** | Thay dataset bằng MNIST/EMNIST |
-| **Phân loại động vật** | Dataset Animals-10 trên Kaggle |
-| **Phát hiện vật thể** | Chuyển sang YOLO hoặc Faster R-CNN |
-| **Triển khai mobile** | Chuyển đổi sang TensorFlow Lite |
-| **Giải thích AI** | Áp dụng Grad-CAM để visualize vùng chú ý |
